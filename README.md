@@ -7,8 +7,6 @@
 **Frontend Developer in Training | Coding Bootcamp Student**  
 🌱 Focused on building interactive, responsive, and user-friendly web applications using **HTML, CSS, JavaScript, and TypeScript**.
 
----
-
 ## 💻 Tech Stack
 
 <p align="center">
@@ -18,13 +16,11 @@
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
----
-
 ## 🌟 Projects I've Built
 
 Here’s a glimpse of what I’ve been working on during my coding journey:
 
-### **1. Health App 🏋️**
+### **1. Health App 🥗💪**
 
 A responsive web application designed for a personalized nutrition coaching service. It features a clean user interface, responsive layouts, and dynamic functionality for an engaging user experience.
 
@@ -42,8 +38,6 @@ A responsive web application designed for a personalized nutrition coaching serv
 <a href="https://github.com/jutuli/Day21-22-FinalProject-HealthApp" target="_blank" style="text-decoration:none;">
 <img src="https://img.shields.io/badge/Explore-Repo-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="Health App Repo" />
 </a>
-
----
 
 ### **2. Tip Calculator 💸**
 
