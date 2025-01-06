@@ -1,4 +1,4 @@
-![Banner](./img/Julia_Banner.png)
+![Banner](./img/JuliaBanner.png)
 
 ## Hi there 👋
 
